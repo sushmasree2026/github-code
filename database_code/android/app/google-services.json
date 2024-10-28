@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868931920364",
+    "project_id": "fb-db-d269b",
+    "storage_bucket": "fb-db-d269b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868931920364:android:5e620297de7f08940c20c9",
+        "android_client_info": {
+          "package_name": "DATABASE_CODE.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjlDABwxslUJbeszX4g-Q6SL9dpLbXt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868931920364:android:d9cc4091e3a0ade80c20c9",
+        "android_client_info": {
+          "package_name": "database_code.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjlDABwxslUJbeszX4g-Q6SL9dpLbXt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
